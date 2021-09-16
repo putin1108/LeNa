@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Muốn đụng thì chạm',
     btnNo: 'Muốn cảm thì xúc',
     question:'Do you know which side of my heart?',
-    btnReply: 'It's beside you',
+    btnReply: 'It is beside you',
     reply: ' The way you are looking at me, you have got me mesmerized ',
     mess: 'Tiếp chiêu nữa nè 😆',
     messDesc: 'Ba đồng một mớ tình duyên , đừng tìm kiếm nữa về liền với em 😝',
